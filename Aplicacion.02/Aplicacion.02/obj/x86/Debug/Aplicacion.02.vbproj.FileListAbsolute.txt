@@ -1,0 +1,2 @@
+C:\Users\Rodrigo\documents\visual studio 2010\Projects\Aplicacion.02\Aplicacion.02\obj\x86\Debug\Aplicacion._02.Resources.resources
+C:\Users\Rodrigo\documents\visual studio 2010\Projects\Aplicacion.02\Aplicacion.02\obj\x86\Debug\Aplicacion.02.vbproj.GenerateResource.Cache

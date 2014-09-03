@@ -1,0 +1,22 @@
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\ResolveAssemblyReference.cache
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion._04.FrmTabla.resources
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion._04.Resources.resources
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.vbproj.GenerateResource.Cache
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.exe
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.pdb
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.xml
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.exe
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.xml
+d:\Visual Studio 2008\Projects\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.pdb
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.exe
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.xml
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.pdb
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.exe
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.pdb
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\bin\Debug\Aplicacion.04.xml
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion._04.FrmTabla.resources
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion._04.Resources.resources
+D:\Laboratorio III\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.vbproj.GenerateResource.Cache
+D:\Ejercicios Rodrigo\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.exe
+D:\Ejercicios Rodrigo\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.xml
+D:\Ejercicios Rodrigo\Aplicacion.04\Aplicacion.04\obj\Debug\Aplicacion.04.pdb

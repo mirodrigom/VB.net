@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\bin\Debug\Aplicacion.01.exe
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\bin\Debug\Aplicacion.01.pdb
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\bin\Debug\Aplicacion.01.xml
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\obj\x86\Debug\Aplicacion._01.Resources.resources
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\obj\x86\Debug\Aplicacion.01.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\obj\x86\Debug\Aplicacion.01.exe
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\obj\x86\Debug\Aplicacion.01.xml
+C:\Users\Rodrigo\AppData\Local\Temporary Projects\Aplicacion.01\obj\x86\Debug\Aplicacion.01.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Aplicacion.01\Aplicacion.01\obj\x86\Debug\Aplicacion.01.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Aplicacion.01\Aplicacion.01\obj\x86\Debug\Aplicacion.01.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2010\Projects\Aplicacion.01\Aplicacion.01\obj\x86\Debug\Aplicacion.01.pdb
+D:\Ejercicios Rodrigo\Aplicacion.01\Aplicacion.01\obj\x86\Debug\Aplicacion.01.exe
+D:\Ejercicios Rodrigo\Aplicacion.01\Aplicacion.01\obj\x86\Debug\Aplicacion.01.xml
+D:\Ejercicios Rodrigo\Aplicacion.01\Aplicacion.01\obj\x86\Debug\Aplicacion.01.pdb

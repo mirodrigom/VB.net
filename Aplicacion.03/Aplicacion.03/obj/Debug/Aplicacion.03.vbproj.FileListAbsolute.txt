@@ -1,0 +1,19 @@
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\ResolveAssemblyReference.cache
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion._03.FrmSaludo.resources
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion._03.Resources.resources
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.vbproj.GenerateResource.Cache
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\bin\Debug\Aplicacion.03.exe
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\bin\Debug\Aplicacion.03.pdb
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\bin\Debug\Aplicacion.03.xml
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.exe
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.xml
+d:\Visual Studio 2008\Projects\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.pdb
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.exe
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.xml
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.pdb
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\bin\Debug\Aplicacion.03.exe
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\bin\Debug\Aplicacion.03.pdb
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\bin\Debug\Aplicacion.03.xml
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion._03.FrmSaludo.resources
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion._03.Resources.resources
+D:\Ejercicios Rodrigo\Aplicacion.03\Aplicacion.03\obj\Debug\Aplicacion.03.vbproj.GenerateResource.Cache
